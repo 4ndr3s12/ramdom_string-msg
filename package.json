@@ -1,0 +1,27 @@
+{
+  "name": "ramdom_string-msg",
+  "version": "1.0.0",
+  "description": "random string msg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4ndr3s12/ramdom_string-msg.git"
+  },
+  "keywords": [],
+  "author": "BENJA <sbenja450@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/4ndr3s12/ramdom_string-msg/issues"
+  },
+  "homepage": "https://github.com/4ndr3s12/ramdom_string-msg#readme",
+  "bin": {
+    "ramdom_string-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
